@@ -1,0 +1,68 @@
+body{
+	background-color: #FFFFFF; 
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.margenes0{
+	margin: 0%
+}
+
+.margenimg{
+	margin-top: 2%;
+}
+
+.dimensiones{
+	max-width: 600px;
+	max-height: 300px;
+	display: inline-block;
+}
+
+.DimenGene{
+	max-width: 500px;
+	max-height: 500px;
+	margin-top: 2%;
+}
+
+.DimenLogo > img{
+	max-width: 90%;
+	margin-top: 0.5%;
+}
+
+.letraShadow{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.letraCarlo{
+    font-family: 'MonteCarlo', cursive;
+}
+
+.letraRale{
+	font-family: 'Raleway', sans-serif;
+}
+
+.centro{
+	text-align: center;
+}
+
+.letragrande{
+	font-size: 5em;
+}
+
+.centro >h2{
+	font-size: 3em;
+	color: #F27522;
+}
+
+.centro > h1{
+	color: #F2B705;
+}
+
+a {
+    color: #183057;
+}
+
+.espacioder{
+	margin-right: 1em;
+}

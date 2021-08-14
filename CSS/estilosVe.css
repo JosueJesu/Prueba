@@ -1,0 +1,24 @@
+.navega{
+	width: 30%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.navega > a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 25px;
+	border: 1px solid red;
+}
+
+.backg{
+	background-color: #5E90C0;
+	color: black;
+	font-weight: bold;
+	position: fixed;
+	top: 0;
+    width: 100%;
+    display: flex;
+	justify-content: center;
+}
